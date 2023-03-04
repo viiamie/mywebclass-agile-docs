@@ -46,4 +46,4 @@ The initiative will cover the development of a user-friendly consent process for
 * Web Developer
 
 ## Epics
-* [Epic 1](../../themes/initiatives/epics/epic_initiative1_theme1.md)
+* [Epic 1](../../themes/initiatives/epics/epic_initiative2_theme2.md)
