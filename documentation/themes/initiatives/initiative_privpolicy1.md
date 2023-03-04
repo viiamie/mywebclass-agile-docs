@@ -48,4 +48,4 @@ The initiative will cover the implementation of GDPR-compliant data collection a
 * Privacy Expert/Consultant
 
 ## Epics
-* [Epic 1](../../themes/initiatives/epics/epic_initiative1_theme1.md)
+* [Epic 1](../../themes/initiatives/epics/epic_initiative1_theme2.md)
