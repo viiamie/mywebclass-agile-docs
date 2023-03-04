@@ -11,12 +11,12 @@ us up for long-term success.
 * To continuously improve and evolve the learning experience based on Agile principles and methodology
 * To equip students with the skills and knowledge they need to succeed in their careers
 
-##Project Outcomes:
+## Project Outcomes:
 * Students gain practical skills and real-world knowledge that prepare them for the workforce
 * Students are engaged and motivated to learn, leading to better academic performance
 * Students are equipped with the latest industry knowledge and tools, making them more competitive in the job market
 
-##Project Deliverables:
+## Project Deliverables:
 * Interactive and engaging learning modules
 * Realistic scenarios that simulate a professional environment
 * Curriculum that is constantly evolving and improving based on Agile principles and methodology
