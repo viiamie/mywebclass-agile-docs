@@ -28,5 +28,5 @@ us up for long-term success.
 * MyWebClass becomes a leading platform for integrating technology with business processes in the education sector
 
 ## Initiative(s)
-* [Development of Interactive Learning Modules]()
-* [Continuous Improvement of Curriculum Based on Agile Methodology]()
+* [Development of Interactive Learning Modules](documentation/themes/initiatives/initiative_mywebclass1.md)
+* [Continuous Improvement of Curriculum Based on Agile Methodology](documentation/themes/initiatives/initiative_mywebclass2.md)
