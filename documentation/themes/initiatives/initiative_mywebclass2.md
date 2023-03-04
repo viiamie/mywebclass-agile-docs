@@ -46,5 +46,4 @@ The initiative is dependent on the availability of MyWebClass platform and its t
 * Agile Coach/Consultant
 
 ## Epics
-* [Epic 1](../../templates/theme/initiatives/epics/epic_template.md)
-* [Epic 2]()
+* [Epic 1](../../themes/initiatives/epics/epic_initiative2_theme1.md)
