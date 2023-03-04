@@ -25,7 +25,7 @@ The initiative will cover the update of the website privacy policy to provide cl
 * Publish and communicate updated privacy policy on the website (2 weeks)
 
 ## Constraints: 
-N* eed to ensure accuracy and completeness of privacy policy information
+* Need to ensure accuracy and completeness of privacy policy information
 * Limited budget for additional resources or tools
 
 ## Assumptions: 
@@ -46,4 +46,4 @@ N* eed to ensure accuracy and completeness of privacy policy information
 * Content Writer
 
 ## Epics
-* [Epic 1](../../themes/initiatives/epics/epic_initiative1_theme1.md)
+* [Epic 1](../../themes/initiatives/epics/epic_initiative3_theme2.md)
