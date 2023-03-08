@@ -132,7 +132,8 @@ At this juncture, the efficacy of the documentation is measured by how well it e
 review this effectiveness before the next iteration of the project.
 # Your  plan should replace the content below
 
-[Project Setup](documentation/theme_1/theme_project_setup.md)
+* [Theme 1](documentation/themes/theme1.md)
+* [Theme 2](documentation/themes/theme2.md)
 
 ## Release Schedule
 
