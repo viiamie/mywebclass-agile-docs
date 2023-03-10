@@ -1,6 +1,6 @@
 # Initiative: Development of Interactive Learning Modules
 ## Description
-This initiative involves the development of interactive learning modules that utilize MyWebClass platform to provide students with a hands-on learning experience.
+This initiative aims to create interactive learning modules that leverage the MyWebClass platform, allowing students to gain practical experience in a hands-on learning environment. These modules will be designed to enhance the learning experience by providing students with realistic scenarios that contextualize technology and business processes. By using Agile project documentation, the initiative seeks to enable quick and effective development of the modules and set students up for long-term success.
 
 ## Goals:
 * To enhance student engagement and motivation in the learning process
