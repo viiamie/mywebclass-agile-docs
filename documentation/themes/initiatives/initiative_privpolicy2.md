@@ -11,9 +11,9 @@ This initiative involves the development of a user-friendly consent process for 
 The initiative will cover the development of a user-friendly consent process for data collection and processing through Google Analytics.
 
 ## Outcomes:
-* Improved user experience and satisfaction with the website's privacy practices
+* Improved user experience and satisfaction with the website's privacy practices, as informed by user data from Google Analytics
 * Compliance with GDPR and other privacy regulations
-* Increased user trust and confidence in the website's privacy practices
+* Increased user trust and confidence in the website's privacy practices, as informed by user data from Google Analytics
 
 ## Deliverables:
 * User-friendly consent process for data collection and processing through Google Analytics
