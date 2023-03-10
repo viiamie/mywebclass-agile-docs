@@ -3,9 +3,11 @@
 This initiative involves the continuous improvement of MyWebClass curriculum based on Agile methodology to ensure that it remains relevant and up-to-date.
 
 ## Goals:
-* To continuously improve and evolve the curriculum to meet the needs of students
-* To provide students with the latest industry knowledge and tools
-* To enhance the quality of the learning experience
+* To continuously improve and evolve the curriculum based on Agile methodology to meet the needs of students and educators.
+* To provide students and educators with the latest industry knowledge and tools to facilitate effective teaching and learning.
+* To enhance the quality of the learning experience for both students and educators through the development of interactive learning modules.
+* To foster a collaborative learning environment where educators and students can work together to achieve shared learning goals.
+* To empower educators with the necessary training and resources to effectively use the MyWebClass platform and integrate technology into the learning process.
 
 ## Scope: 
 The initiative will focus on the development of a process for continuous improvement of MyWebClass curriculum based on Agile methodology.
