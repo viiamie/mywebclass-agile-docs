@@ -10,6 +10,7 @@ protection of personal data collected through Google Analytics and transparency 
 * Respect user privacy rights and preferences
 * Build trust and confidence with users
 * Avoid legal and financial risks associated with non-compliance
+* Utilize Google Analytics to gather insights into user behavior and preferences to improve the platform and user experience.
 
 ## Outcomes:
 * Clear and concise privacy policies and notices that inform users about data collection, processing, and sharing practices
