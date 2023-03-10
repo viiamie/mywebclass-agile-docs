@@ -64,8 +64,3 @@ Objective: To verify that the MyWebClass platform is secure and performs well un
 * Verify that the platform can handle high traffic and usage
 * Verify that the platform is protected from security threats, including unauthorized access and data breaches
 * Verify that the platform complies with relevant privacy regulations
-
-## Testing Environment:
-* Desktop and mobile devices
-* Various web browsers (Chrome, Firefox, Safari, Edge)
-* Test user accounts with access to different courses and modules
