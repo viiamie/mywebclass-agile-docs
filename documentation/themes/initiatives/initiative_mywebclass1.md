@@ -21,9 +21,9 @@ The initiative will focus on the development of interactive learning modules tha
 * Assessment tools
 
 ## Milestones:
-* Development of module prototypes (3 months)
-* Testing and feedback collection (2 months)
 * Finalization and deployment of modules (1 month)
+* Testing and feedback collection (2 months)
+* Development of module prototypes (3 months)
 
 ## Constraints: 
 Limited resources and funding may impact the scope and timeline of the initiative.
